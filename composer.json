@@ -4,8 +4,8 @@
     "keywords": ["yii2", "framework", "advanced", "improved", "application template", "firdows"],
     "type": "project",
     "license": "BSD-3-Clause",
-    
     "minimum-stability": "stable",
+    "repository":{"url":"https://github.com/firdows/yii2-advanced-template.git"}
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
