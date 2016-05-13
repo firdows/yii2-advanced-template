@@ -5,7 +5,12 @@
     "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
-    "repository":{"url":"https://github.com/firdows/yii2-advanced-template.git"},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/firdows/yii2-advanced-template"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
