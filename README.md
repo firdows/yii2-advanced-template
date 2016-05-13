@@ -1,8 +1,6 @@
 yii2-advanced-template
 ======================
-
-Yii2-advanced-template is based on yii2-app-advanced created by yii2 core developers.
-There are several upgrades made to this template.
+Yii2-advanced-template คือพื้นฐานของ yii2-app-advanced โดยมาจากนักพัฒนาหลักของ yii2 ซึ่งมีการอับเกรตอยู่หลายอย่างด้วยกัน
 
 1. This template has additional features listed in the next section of this guide.
 2. Application structure has been changed to be 'shared hosting friendly'.
