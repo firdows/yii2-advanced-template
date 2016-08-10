@@ -5,12 +5,10 @@
     "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/firdows/yii2-advanced-template"
-        }
-    ],
+    "support": {
+        "tutorial": "http://www.freetuts.org/tutorial/view?id=6",
+        "source": "https://github.com/irdows/yii2-advanced-template"
+    },
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
